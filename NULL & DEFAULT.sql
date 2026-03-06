@@ -18,7 +18,7 @@ desc player_02;
 drop table player_02;
 desc player_02;
 show warnings;
-#Table 'my_database.player_02' doesn't exist
+/*Table 'my_database.player_02' doesn't exist*/
 
 desc members;
 
